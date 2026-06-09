@@ -1,9 +1,10 @@
 # Talk 8 — The Zodiac Sigil
 ## Full word-for-word script (~22 minutes · boundary series)
 
-**Title on stage:** *The Zodiac Sigil — Your DNA Drawn as a Wheel*  
+**Title on stage:** *The Zodiac Sigil — Twelve Houses, the Missing Thirteenth, Your DNA as a Wheel*  
 **Series:** re:CONNECT — Boundary Talks  
 **Tone:** Wonder + edge. Sacred geometry without surrendering discernment.  
+**Runtime:** ~24 minutes  
 **Content warning:** Astrology as living map; critique of public education; **hypothesis** slides on fluoridation, aluminum, GMOs, vaccines — not medical advice.
 
 **Prerequisites (ideal):** Talk 1 (zero), Talk 4 (12-fold), Talk 7B (prison matrix / half-waveform).
