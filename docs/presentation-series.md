@@ -258,7 +258,7 @@ That honors North Star: synthesis in public, hacking deflected, imagination + ri
 
 | Asset | Location |
 |-------|----------|
-| Talk 3 full script (~18 min) | [talks/talk-03-middle-node-script.md](./talks/talk-03-middle-node-script.md) |
+| Full scripts (all 6 talks) | [talks/README.md](./talks/README.md) |
 | Deck outlines (all 6 talks) | [talks/README.md](./talks/README.md) |
 
 *Companion docs: [FRAMEWORK.md](../FRAMEWORK.md) · [conversation-synthesis.md](./conversation-synthesis.md) · [ANALYSIS.md](../ANALYSIS.md) · [NORTH-STAR.md](../NORTH-STAR.md)*
