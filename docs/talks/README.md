@@ -11,6 +11,14 @@ Multi-TED series for **re:CONNECT — The Power of −0−**.
 | 5 — The Audible Universe | [talk-05-audible-universe-deck.md](./talk-05-audible-universe-deck.md) | [talk-05-audible-universe-script.md](./talk-05-audible-universe-script.md) |
 | 6 — Bring the Map (optional) | [talk-06-bring-the-map-deck.md](./talk-06-bring-the-map-deck.md) | [talk-06-bring-the-map-script.md](./talk-06-bring-the-map-script.md) |
 
+### Boundary series (polite discourse pushed)
+
+| Talk | Script | Reference |
+|------|--------|-----------|
+| **7 — The Gregorian Spell** | [talk-07-the-gregorian-spell-script.md](./talk-07-the-gregorian-spell-script.md) | [calendar-22-7-28-13.md](../calendar-22-7-28-13.md) |
+
+Index: [BOUNDARY-SERIES.md](./BOUNDARY-SERIES.md)
+
 **Series architecture:** [../presentation-series.md](../presentation-series.md)  
 **North Star:** [../../NORTH-STAR.md](../../NORTH-STAR.md)
 
