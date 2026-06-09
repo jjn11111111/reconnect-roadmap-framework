@@ -22,7 +22,7 @@ Primary synthesis from: [Grok share — "So."](https://grok.com/share/c2hhcmQtMi
 | [docs/sator-square.md](./docs/sator-square.md) | Sator / TENET as coordinate stabilizer |
 | [docs/applications.md](./docs/applications.md) | Apps, sound, energy work |
 | [docs/presentation-series.md](./docs/presentation-series.md) | Multi-TED-talk series architecture |
-| [docs/talks/](./docs/talks/) | Talk 3 full script + all deck outlines |
+| [docs/talks/](./docs/talks/) | Talk scripts (1–9) + deck outlines |
 | [REPOS.md](./REPOS.md) | Ecosystem map |
 
 ## One-sentence thesis

@@ -9,6 +9,7 @@ Multi-TED series for **re:CONNECT — The Power of −0−**.
 | 3 — The Middle Node | [talk-03-middle-node-deck.md](./talk-03-middle-node-deck.md) | [talk-03-middle-node-script.md](./talk-03-middle-node-script.md) |
 | 4 — The Numbers That Breathe | [talk-04-numbers-that-breathe-deck.md](./talk-04-numbers-that-breathe-deck.md) | [talk-04-numbers-that-breathe-script.md](./talk-04-numbers-that-breathe-script.md) |
 | 5 — The Audible Universe | [talk-05-audible-universe-deck.md](./talk-05-audible-universe-deck.md) | [talk-05-audible-universe-script.md](./talk-05-audible-universe-script.md) |
+| 9 — The Personalities of Number | — | [talk-09-number-personalities-script.md](./talk-09-number-personalities-script.md) |
 | 6 — Bring the Map (optional) | [talk-06-bring-the-map-deck.md](./talk-06-bring-the-map-deck.md) | [talk-06-bring-the-map-script.md](./talk-06-bring-the-map-script.md) |
 
 ### Boundary series (polite discourse pushed)
