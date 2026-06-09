@@ -16,6 +16,7 @@ Multi-TED series for **re:CONNECT — The Power of −0−**.
 | Talk | Script | Reference |
 |------|--------|-----------|
 | **7 — The Gregorian Spell** | [talk-07-the-gregorian-spell-script.md](./talk-07-the-gregorian-spell-script.md) | [calendar-22-7-28-13.md](../calendar-22-7-28-13.md) |
+| **7B — The Prison Matrix** *(Part 2)* | [talk-07-part-2-the-prison-matrix-script.md](./talk-07-part-2-the-prison-matrix-script.md) | [prison-matrix.md](../prison-matrix.md) |
 
 Index: [BOUNDARY-SERIES.md](./BOUNDARY-SERIES.md)
 
