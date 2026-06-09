@@ -389,13 +389,13 @@ The skill is the same:
 
 **Context.**
 
-That's what they **stopped teaching** on purpose.
+That's what they **stopped teaching** on purpose — **including the thirteenth question**.
 
 ---
 
-### [16:30 — EDUCATION: ROTE VS ANALYSIS**
+### [18:00 — EDUCATION: ROTE VS ANALYSIS]
 
-*(Slide 8: bubble test · blank chart — which teaches relationship?)*
+*(Slide 9: bubble test · blank chart · ghost 13th house)*
 
 Modern public education — **lowest vibration** — optimized for **standardized tests**.
 
