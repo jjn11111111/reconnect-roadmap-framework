@@ -98,7 +98,8 @@ Numerological reduction reveals **which force** dominates a number's appearance,
 - Talk 4 — live verification of doubling  
 - Talk 8 — chart squares/trines as geometry of same digits  
 - Talk 7 — 13 / Phiscus **outside** closed ten-digit loop  
-- [mathematics.md](./mathematics.md) — formal cycles
+- [mathematics.md](./mathematics.md) — formal cycles  
+- [four-layer-laser.md](./four-layer-laser.md) — sentience layers ↔ digits ↔ 22/7 × 28/13
 
 ---
 

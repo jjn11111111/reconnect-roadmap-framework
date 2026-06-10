@@ -20,6 +20,7 @@ Multi-TED series for **re:CONNECT — The Power of −0−**.
 | **7 — The Gregorian Spell** | [talk-07-the-gregorian-spell-script.md](./talk-07-the-gregorian-spell-script.md) | [calendar-22-7-28-13.md](../calendar-22-7-28-13.md) |
 | **7B — The Prison Matrix** *(Part 2)* | [talk-07-part-2-the-prison-matrix-script.md](./talk-07-part-2-the-prison-matrix-script.md) | [prison-matrix.md](../prison-matrix.md) |
 | **8 — The Zodiac Sigil** | [talk-08-the-zodiac-sigil-script.md](./talk-08-the-zodiac-sigil-script.md) | [zodiac-sigil.md](../zodiac-sigil.md) |
+| **13 — There Are No Outsiders** | [talk-13-four-layers-one-beam-script.md](./talk-13-four-layers-one-beam-script.md) | [four-layer-laser.md](../four-layer-laser.md) |
 
 Index: [BOUNDARY-SERIES.md](./BOUNDARY-SERIES.md)
 

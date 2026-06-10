@@ -14,8 +14,9 @@ Core series (Talks 1–5) builds trust. Boundary talks spend that trust on harde
 | **7B — The Prison Matrix** *(Part 2)* | [talk-07-part-2-the-prison-matrix-script.md](./talk-07-part-2-the-prison-matrix-script.md) | Compression vs transverse · A440 · Darwin/method · victor history |
 | **8 — The Zodiac Sigil** | [talk-08-the-zodiac-sigil-script.md](./talk-08-the-zodiac-sigil-script.md) | 12-house matrix · Phiscus · aspects |
 | **9 — Number Personalities** | [talk-09-number-personalities-script.md](./talk-09-number-personalities-script.md) | 0–9 cast · Fibonacci vs doubling · hologram core |
+| **13 — There Are No Outsiders** | [talk-13-four-layers-one-beam-script.md](./talk-13-four-layers-one-beam-script.md) | One container · four layers · laser coherence |
 
-**References:** [../calendar-22-7-28-13.md](../calendar-22-7-28-13.md) · [../prison-matrix.md](../prison-matrix.md) · [../zodiac-sigil.md](../zodiac-sigil.md) · [../numerology-personalities.md](../numerology-personalities.md)
+**References:** [../calendar-22-7-28-13.md](../calendar-22-7-28-13.md) · [../four-layer-laser.md](../four-layer-laser.md) · [../prison-matrix.md](../prison-matrix.md) · [../zodiac-sigil.md](../zodiac-sigil.md) · [../numerology-personalities.md](../numerology-personalities.md)
 
 **Perform Talk 7 Part 1 before Part 2** — or five-minute recap.
 
@@ -29,7 +30,6 @@ Core series (Talks 1–5) builds trust. Boundary talks spend that trust on harde
 | 10 | **The Veil and the Download** | Multidimensional perception suppressed; sovereignty |
 | 11 | **Institutional Arrogance** | Peer review, credential condescension |
 | 12 | **Transport as Hypothesis** | Full Ψ(res) formula; calendar temporal lock |
-
 Request scripts in order of what you're ready to **perform**, not what angries the room most.
 
 ---

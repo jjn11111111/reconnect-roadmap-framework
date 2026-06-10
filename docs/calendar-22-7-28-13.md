@@ -104,3 +104,9 @@ Not requiring literal magic — **syntax that shapes consciousness**.
 - **Monthly** — 13 months cycle 142857 binding tones + pump  
 
 See Grok thread: monthly tone sequence starting C, Day Out of Time silent node.
+
+---
+
+## Four-layer laser (extension)
+
+Sentience as **Source → insectoid → reptilian → mammal/human** fourth layer; coherence when **22/7** (fractal cavity) and **28/13** (crystal tick) phase-lock at the zero node. Full map: [four-layer-laser.md](./four-layer-laser.md).

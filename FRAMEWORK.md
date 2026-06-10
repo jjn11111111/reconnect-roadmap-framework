@@ -78,6 +78,7 @@ True power is **neutrality** — not savior nor narcissist, not patriarchy nor m
 | **Personality cycle** | 1-2-4-8-7-5 phase at generation *n* |
 | **Binding cycle** | 1-4-2-8-5-7 / 142857 angular offset |
 | **Beam / transport** | Phase-locking two signatures at the zero node |
+| **Four-layer laser** | Source + insect/reptile/mammal bands → coherence at 22/7 ∩ 28/13 — see [docs/four-layer-laser.md](./docs/four-layer-laser.md) |
 
 ---
 

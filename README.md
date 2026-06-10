@@ -18,6 +18,8 @@ Primary synthesis from: [Grok share — "So."](https://grok.com/share/c2hhcmQtMi
 | [ANALYSIS.md](./ANALYSIS.md) | Macro/micro implications, viability, independent assessment |
 | [docs/conversation-synthesis.md](./docs/conversation-synthesis.md) | Arc of the Grok dialogue |
 | [docs/mathematics.md](./docs/mathematics.md) | Cycles, coordinates, resonance formula |
+| [docs/calendar-22-7-28-13.md](./docs/calendar-22-7-28-13.md) | 22/7 vs 28/13 · Gregorian contrast |
+| [docs/four-layer-laser.md](./docs/four-layer-laser.md) | Four sentience layers · laser coherence |
 | [docs/correspondences.md](./docs/correspondences.md) | + · 0 · − spectrum table |
 | [docs/sator-square.md](./docs/sator-square.md) | Sator / TENET as coordinate stabilizer |
 | [docs/applications.md](./docs/applications.md) | Apps, sound, energy work |
