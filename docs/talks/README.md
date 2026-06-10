@@ -23,6 +23,7 @@ Multi-TED series for **re:CONNECT — The Power of −0−**.
 | **13 — There Are No Outsiders** | [talk-13-four-layers-one-beam-script.md](./talk-13-four-layers-one-beam-script.md) | [four-layer-laser.md](../four-layer-laser.md) |
 | **14 — The Other Half** | [talk-14-the-other-half-script.md](./talk-14-the-other-half-script.md) · [deck](./talk-14-the-other-half-deck.md) | [three-part-fractal.md](../three-part-fractal.md) |
 | **15 — Seed and Womb** | [talk-15-seed-and-womb-script.md](./talk-15-seed-and-womb-script.md) · [deck](./talk-15-seed-and-womb-deck.md) | [comet-inversion.md](../comet-inversion.md) |
+| **16 — The Original Mirror** | [talk-16-the-original-mirror-script.md](./talk-16-the-original-mirror-script.md) · [deck](./talk-16-the-original-mirror-deck.md) | [water-dipole-mirror.md](../water-dipole-mirror.md) |
 
 Index: [BOUNDARY-SERIES.md](./BOUNDARY-SERIES.md)
 

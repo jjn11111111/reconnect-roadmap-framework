@@ -4,7 +4,7 @@
 
 **Status:** Framework synthesis + chemistry correspondences. Scripture read = theological layer, not science proof.
 
-**Related:** [numerology-personalities.md](./numerology-personalities.md) · [correspondences.md](./correspondences.md) · [three-part-fractal.md](./three-part-fractal.md) · [comet-inversion.md](./comet-inversion.md) · Talk 1 · Talk 2 · Talk 9 · Talk 15
+**Related:** [numerology-personalities.md](./numerology-personalities.md) · [correspondences.md](./correspondences.md) · [three-part-fractal.md](./three-part-fractal.md) · [comet-inversion.md](./comet-inversion.md) · Talk 1 · Talk 2 · Talk 9 · Talk 15 · [Talk 16 script](./talks/talk-16-the-original-mirror-script.md)
 
 ---
 
