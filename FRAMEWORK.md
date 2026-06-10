@@ -79,6 +79,9 @@ True power is **neutrality** — not savior nor narcissist, not patriarchy nor m
 | **Binding cycle** | 1-4-2-8-5-7 / 142857 angular offset |
 | **Beam / transport** | Phase-locking two signatures at the zero node |
 | **Four-layer laser** | Source + insect/reptile/mammal bands → coherence at 22/7 ∩ 28/13 — see [docs/four-layer-laser.md](./docs/four-layer-laser.md) |
+| **Three-part fractal** | Scalar · compression · gravity-wave; incarnation = +1 crystallization ray — [docs/three-part-fractal.md](./docs/three-part-fractal.md) |
+| **Awakening paradox** | Lost+reawakening and first ripening both true at hinge — Talk 14 |
+| **Comet inversion** | Seed collapsing inward; nested wombs; capacitance — [docs/comet-inversion.md](./docs/comet-inversion.md) |
 
 ---
 

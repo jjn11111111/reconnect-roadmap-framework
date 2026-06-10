@@ -504,6 +504,8 @@ Record these once; repost vertical:
 
 **Cadence:** 2 Shorts per week during launch; batch-film in one session.
 
+**Full rollout plan:** [shorts-rollout.md](./shorts-rollout.md)
+
 ---
 
 ## Description template (copy-paste)

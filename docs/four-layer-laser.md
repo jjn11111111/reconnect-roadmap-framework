@@ -4,7 +4,7 @@
 
 **Status:** Framework synthesis — not peer-reviewed physics. Label **hypothesis** where noted.
 
-**Related:** [calendar-22-7-28-13.md](./calendar-22-7-28-13.md) · [numerology-personalities.md](./numerology-personalities.md) · [mathematics.md](./mathematics.md) · [FRAMEWORK.md](../FRAMEWORK.md)
+**Related:** [three-part-fractal.md](./three-part-fractal.md) · [comet-inversion.md](./comet-inversion.md) · [the-bridge.md](./the-bridge.md) · [calendar-22-7-28-13.md](./calendar-22-7-28-13.md) · [numerology-personalities.md](./numerology-personalities.md) · [mathematics.md](./mathematics.md) · [FRAMEWORK.md](../FRAMEWORK.md)
 
 ---
 
@@ -171,6 +171,7 @@ When half-waveform institutions (Gregorian spell, 12-house truncation, compressi
 | Talk 8 | Faceted sigil · 13th door |
 | Talk 9 | Ten digits · hologram core |
 | **Talk 13** | [talk-13-four-layers-one-beam-script.md](./talks/talk-13-four-layers-one-beam-script.md) · [deck](./talks/talk-13-four-layers-one-beam-deck.md) |
+| **Talk 14** | [talk-14-the-other-half-script.md](./talks/talk-14-the-other-half-script.md) · [deck](./talks/talk-14-the-other-half-deck.md) |
 
 ---
 
