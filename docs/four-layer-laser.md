@@ -172,6 +172,7 @@ When half-waveform institutions (Gregorian spell, 12-house truncation, compressi
 | Talk 9 | Ten digits · hologram core |
 | **Talk 13** | [talk-13-four-layers-one-beam-script.md](./talks/talk-13-four-layers-one-beam-script.md) · [deck](./talks/talk-13-four-layers-one-beam-deck.md) |
 | **Talk 14** | [talk-14-the-other-half-script.md](./talks/talk-14-the-other-half-script.md) · [deck](./talks/talk-14-the-other-half-deck.md) |
+| **Talk 15** | [talk-15-seed-and-womb-script.md](./talks/talk-15-seed-and-womb-script.md) · [deck](./talks/talk-15-seed-and-womb-deck.md) |
 
 ---
 

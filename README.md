@@ -28,7 +28,7 @@ Primary synthesis from: [Grok share — "So."](https://grok.com/share/c2hhcmQtMi
 | [docs/applications.md](./docs/applications.md) | Apps, sound, energy work |
 | [docs/presentation-series.md](./docs/presentation-series.md) | Multi-TED-talk series architecture |
 | [docs/comet-inversion.md](./docs/comet-inversion.md) | Comet seed · collapsing consciousness · capacitance |
-| [docs/talks/](./docs/talks/) | Talk scripts (1–9, 13–14) + deck outlines |
+| [docs/talks/](./docs/talks/) | Talk scripts (1–9, 13–15) + deck outlines |
 | [docs/youtube-adaptation.md](./docs/youtube-adaptation.md) | YouTube / Rumble / reel adaptation guide |
 | [REPOS.md](./REPOS.md) | Ecosystem map |
 

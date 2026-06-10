@@ -21,7 +21,8 @@ Multi-TED series for **re:CONNECT — The Power of −0−**.
 | **7B — The Prison Matrix** *(Part 2)* | [talk-07-part-2-the-prison-matrix-script.md](./talk-07-part-2-the-prison-matrix-script.md) | [prison-matrix.md](../prison-matrix.md) |
 | **8 — The Zodiac Sigil** | [talk-08-the-zodiac-sigil-script.md](./talk-08-the-zodiac-sigil-script.md) | [zodiac-sigil.md](../zodiac-sigil.md) |
 | **13 — There Are No Outsiders** | [talk-13-four-layers-one-beam-script.md](./talk-13-four-layers-one-beam-script.md) | [four-layer-laser.md](../four-layer-laser.md) |
-| **14 — The Other Half** | [talk-14-the-other-half-script.md](./talk-14-the-other-half-script.md) · [deck](./talk-14-the-other-half-deck.md) | [three-part-fractal.md](../three-part-fractal.md) · [comet-inversion.md](../comet-inversion.md) |
+| **14 — The Other Half** | [talk-14-the-other-half-script.md](./talk-14-the-other-half-script.md) · [deck](./talk-14-the-other-half-deck.md) | [three-part-fractal.md](../three-part-fractal.md) |
+| **15 — Seed and Womb** | [talk-15-seed-and-womb-script.md](./talk-15-seed-and-womb-script.md) · [deck](./talk-15-seed-and-womb-deck.md) | [comet-inversion.md](../comet-inversion.md) |
 
 Index: [BOUNDARY-SERIES.md](./BOUNDARY-SERIES.md)
 

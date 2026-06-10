@@ -16,6 +16,7 @@ Core series (Talks 1–5) builds trust. Boundary talks spend that trust on harde
 | **9 — Number Personalities** | [talk-09-number-personalities-script.md](./talk-09-number-personalities-script.md) | 0–9 cast · Fibonacci vs doubling · hologram core |
 | **13 — There Are No Outsiders** | [talk-13-four-layers-one-beam-script.md](./talk-13-four-layers-one-beam-script.md) | One container · four layers · laser coherence |
 | **14 — The Other Half** | [talk-14-the-other-half-script.md](./talk-14-the-other-half-script.md) | 3-part fractal · incarnation ray · awakening paradox |
+| **15 — Seed and Womb** | [talk-15-seed-and-womb-script.md](./talk-15-seed-and-womb-script.md) | Comet seed · collapsing inward · capacitance trinity |
 
 **References:** [../calendar-22-7-28-13.md](../calendar-22-7-28-13.md) · [../four-layer-laser.md](../four-layer-laser.md) · [../three-part-fractal.md](../three-part-fractal.md) · [../comet-inversion.md](../comet-inversion.md) · [../the-bridge.md](../the-bridge.md) · [../prison-matrix.md](../prison-matrix.md) · [../zodiac-sigil.md](../zodiac-sigil.md) · [../numerology-personalities.md](../numerology-personalities.md)
 
@@ -31,8 +32,6 @@ Core series (Talks 1–5) builds trust. Boundary talks spend that trust on harde
 | 10 | **The Veil and the Download** | Multidimensional perception suppressed; sovereignty |
 | 11 | **Institutional Arrogance** | Peer review, credential condescension |
 | 12 | **Transport as Hypothesis** | Full Ψ(res) formula; calendar temporal lock |
-| 15 *(spine)* | **Seed and Womb** | [comet-inversion.md](../comet-inversion.md) · 3I/ATLAS · collapsing consciousness |
-
 Request scripts in order of what you're ready to **perform**, not what angries the room most.
 
 ---
@@ -48,7 +47,7 @@ Request scripts in order of what you're ready to **perform**, not what angries t
 
 ## Rehearsal order after core series
 
-3 → 1 → 4 → **9** → 7 → 7B → 8 → **13** → **14** → 5 → 6
+3 → 1 → 4 → **9** → 7 → 7B → 8 → **13** → **14** → **15** → 5 → 6
 
 Talk 7 lands best when audience already knows: zero hinge, 142857, middle node.  
-Talks **13 → 14** pair: reunion beam, then embodiment paradox (capstone).
+Talks **13 → 14 → 15** (cosmology triptych): reunion · other half · seed and womb.
