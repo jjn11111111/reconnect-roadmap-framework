@@ -153,6 +153,7 @@ Water reads **almost** linear in formula **H₂O** — but **bends** in space �
 | Talk 9 | 1 source · 8 octave · 10 cast |
 | Talk 15 | Comet seed · womb · water delivery |
 | Comet inversion | Fertilization · capacitance · plasma ↔ crystal |
+| Membrane death | Consumption = local release — [membrane-consumption-death.md](./membrane-consumption-death.md) |
 | Three-part fractal | Scalar · compression · ripple — water as **compression-phase solvent** |
 
 ---

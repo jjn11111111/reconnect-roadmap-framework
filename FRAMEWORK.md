@@ -83,6 +83,8 @@ True power is **neutrality** — not savior nor narcissist, not patriarchy nor m
 | **Awakening paradox** | Lost+reawakening and first ripening both true at hinge — Talk 14 |
 | **Comet inversion** | Seed collapsing inward; nested wombs; capacitance — [docs/comet-inversion.md](./docs/comet-inversion.md) |
 | **Water dipole** | H(1)·O(8)·tripartite bent mirror; medium before light — [docs/water-dipole-mirror.md](./docs/water-dipole-mirror.md) |
+| **Membrane / consumption** | Local death grammar — **not** harm license — [docs/membrane-consumption-death.md](./docs/membrane-consumption-death.md) |
+| **Membrane / consumption** | To be eaten = local death; plasma release from container — [docs/membrane-consumption-death.md](./docs/membrane-consumption-death.md) |
 
 ---
 

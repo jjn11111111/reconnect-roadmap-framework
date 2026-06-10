@@ -33,6 +33,8 @@ Core series (Talks 1–5) builds trust. Boundary talks spend that trust on harde
 | 10 | **The Veil and the Download** | Multidimensional perception suppressed; sovereignty |
 | 11 | **Institutional Arrogance** | Peer review, credential condescension |
 | 12 | **Transport as Hypothesis** | Full Ψ(res) formula; calendar temporal lock |
+| 17 *(spine)* | **The Open Membrane** | [membrane-consumption-death.md](../membrane-consumption-death.md) · eaten = local death · plasma release |
+
 Request scripts in order of what you're ready to **perform**, not what angries the room most.
 
 ---

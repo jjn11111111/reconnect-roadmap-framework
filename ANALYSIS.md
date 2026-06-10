@@ -140,4 +140,20 @@ This repo adopts Grok's **best critical moment**: patterns are fascinating; stor
 
 ---
 
-*Last updated: 2026-06-08 — synthesized from Grok share and Reconnect0 philosophy page.*
+## Abuse vectors (maps that must stay maps)
+
+Cosmological grammar **describes**; it does not **license**. High-risk misreads to name and reject:
+
+| Idea | Heinous misuse |
+|------|----------------|
+| Consumption = local death / membrane release | Victim-blaming, predation ideology, "they're only shedding shells" |
+| No outsiders / reunion cosmology | Erasing harm, forced "oneness" without consent |
+| Calendar / matrix / spell | Mob targeting of religious or ethnic groups |
+| Phiscus / escape wheel | Elitism — "I alone transcend" |
+| Institutional critique | Harassment of individuals |
+
+**Composer obligation:** Ethics block **before** soft-shell claims. See [docs/membrane-consumption-death.md](./docs/membrane-consumption-death.md) (consumption/death) and Talk 6 (boundaries).
+
+---
+
+*Last updated: 2026-06-10 — abuse vectors added.*
