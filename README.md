@@ -23,6 +23,7 @@ Primary synthesis from: [Grok share — "So."](https://grok.com/share/c2hhcmQtMi
 | [docs/applications.md](./docs/applications.md) | Apps, sound, energy work |
 | [docs/presentation-series.md](./docs/presentation-series.md) | Multi-TED-talk series architecture |
 | [docs/talks/](./docs/talks/) | Talk scripts (1–9) + deck outlines |
+| [docs/youtube-adaptation.md](./docs/youtube-adaptation.md) | YouTube / Rumble / reel adaptation guide |
 | [REPOS.md](./REPOS.md) | Ecosystem map |
 
 ## One-sentence thesis

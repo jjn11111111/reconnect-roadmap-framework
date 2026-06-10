@@ -289,7 +289,7 @@ That's **role division** in a ten-digit play:
 
 ---
 
-### [16:30 — THE HOLOGRAM THEOREM (PLAIN LANGUAGE)**
+### [16:30 — THE HOLOGRAM THEOREM (PLAIN LANGUAGE)]
 
 *(Slide 17: simple icons → fractal tree → galaxy)*
 
@@ -325,7 +325,7 @@ Not fortune telling.
 
 ---
 
-### [18:30 — LIVE: YOUR NUMBER**
+### [18:30 — LIVE: YOUR NUMBER]
 
 *(Slide 18: birth date reduction walkthrough)*
 
@@ -353,7 +353,7 @@ Different **script**.
 
 ---
 
-### [20:00 — BRIDGE**
+### [20:00 — BRIDGE]
 
 *(Slide 19: 10 · 6 · 3 · 1 — digits / forces / pump / door)*
 
@@ -423,4 +423,5 @@ Thank you.
 
 ---
 
-*Reference: [../numerology-personalities.md](../numerology-personalities.md)*
+*Reference: [../numerology-personalities.md](../numerology-personalities.md)*  
+*Deck: [talk-09-number-personalities-deck.md](./talk-09-number-personalities-deck.md)*

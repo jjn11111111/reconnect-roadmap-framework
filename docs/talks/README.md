@@ -9,7 +9,8 @@ Multi-TED series for **re:CONNECT — The Power of −0−**.
 | 3 — The Middle Node | [talk-03-middle-node-deck.md](./talk-03-middle-node-deck.md) | [talk-03-middle-node-script.md](./talk-03-middle-node-script.md) |
 | 4 — The Numbers That Breathe | [talk-04-numbers-that-breathe-deck.md](./talk-04-numbers-that-breathe-deck.md) | [talk-04-numbers-that-breathe-script.md](./talk-04-numbers-that-breathe-script.md) |
 | 5 — The Audible Universe | [talk-05-audible-universe-deck.md](./talk-05-audible-universe-deck.md) | [talk-05-audible-universe-script.md](./talk-05-audible-universe-script.md) |
-| 9 — The Personalities of Number | — | [talk-09-number-personalities-script.md](./talk-09-number-personalities-script.md) |
+| 9 — The Personalities of Number | [talk-09-number-personalities-deck.md](./talk-09-number-personalities-deck.md) | [talk-09-number-personalities-script.md](./talk-09-number-personalities-script.md) |
+| 4 — *(YouTube screen)* | [talk-04-numbers-that-breathe-screen-deck.md](./talk-04-numbers-that-breathe-screen-deck.md) | same script as Talk 4 |
 | 6 — Bring the Map (optional) | [talk-06-bring-the-map-deck.md](./talk-06-bring-the-map-deck.md) | [talk-06-bring-the-map-script.md](./talk-06-bring-the-map-script.md) |
 
 ### Boundary series (polite discourse pushed)
@@ -23,6 +24,7 @@ Multi-TED series for **re:CONNECT — The Power of −0−**.
 Index: [BOUNDARY-SERIES.md](./BOUNDARY-SERIES.md)
 
 **Series architecture:** [../presentation-series.md](../presentation-series.md)  
+**YouTube / video adaptation:** [../youtube-adaptation.md](../youtube-adaptation.md)  
 **North Star:** [../../NORTH-STAR.md](../../NORTH-STAR.md)
 
 ## One-TED cut (combined)

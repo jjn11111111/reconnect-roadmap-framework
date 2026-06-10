@@ -19,4 +19,5 @@
 **PhD footnote (optional backup slide):** modular arithmetic, repeating decimals  
 **Lay line:** "Six-track mixtape"  
 **Never say:** teleportation formula on this talk  
-**Prep:** Test projector with phone calculator cam if live demo
+**Prep:** Test projector with phone calculator cam if live demo  
+**YouTube / screen recording:** [talk-04-numbers-that-breathe-screen-deck.md](./talk-04-numbers-that-breathe-screen-deck.md) — 16 slides, PiP calculator, VERIFIED badges

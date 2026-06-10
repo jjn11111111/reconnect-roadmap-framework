@@ -4,6 +4,8 @@
 
 **Format target:** TED-length (~15–18 min each). Colloquial opening, rigorous middle, quiet landing. Lay people leave with imagination; PhDs leave with something they can check on their phone tonight.
 
+**Video / YouTube:** See [youtube-adaptation.md](./youtube-adaptation.md) — cold opens, chapters, Shorts, flagship cut, speaking reel, launch order.
+
 **Series title (umbrella):** *re:CONNECT — The Power of −0−*  
 **Subtitle options:** *Finding the hinge in a world of poles* · *Where two truths make a whole*
 
