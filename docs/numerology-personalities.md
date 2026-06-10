@@ -99,7 +99,8 @@ Numerological reduction reveals **which force** dominates a number's appearance,
 - Talk 8 — chart squares/trines as geometry of same digits  
 - Talk 7 — 13 / Phiscus **outside** closed ten-digit loop  
 - [mathematics.md](./mathematics.md) — formal cycles  
-- [four-layer-laser.md](./four-layer-laser.md) — sentience layers ↔ digits ↔ 22/7 × 28/13
+- [four-layer-laser.md](./four-layer-laser.md) — sentience layers ↔ digits ↔ 22/7 × 28/13  
+- [water-dipole-mirror.md](./water-dipole-mirror.md) — H(1) · O(8) · 10 · dipole mirror
 
 ---
 

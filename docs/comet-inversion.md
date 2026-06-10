@@ -4,7 +4,7 @@
 
 **Status:** Cosmological metaphor with physics correspondences — **hypothesis**, not observational claim about comet biology.
 
-**Related:** [three-part-fractal.md](./three-part-fractal.md) · [four-layer-laser.md](./four-layer-laser.md) · [calendar-22-7-28-13.md](./calendar-22-7-28-13.md) · Talk 2 (mirror) · Talk 13 · Talk 14 · [Talk 15 script](./talks/talk-15-seed-and-womb-script.md)
+**Related:** [water-dipole-mirror.md](./water-dipole-mirror.md) · [three-part-fractal.md](./three-part-fractal.md) · [four-layer-laser.md](./four-layer-laser.md) · [calendar-22-7-28-13.md](./calendar-22-7-28-13.md) · Talk 2 (mirror) · Talk 13 · Talk 14 · [Talk 15 script](./talks/talk-15-seed-and-womb-script.md)
 
 ---
 

@@ -82,6 +82,7 @@ True power is **neutrality** — not savior nor narcissist, not patriarchy nor m
 | **Three-part fractal** | Scalar · compression · gravity-wave; incarnation = +1 crystallization ray — [docs/three-part-fractal.md](./docs/three-part-fractal.md) |
 | **Awakening paradox** | Lost+reawakening and first ripening both true at hinge — Talk 14 |
 | **Comet inversion** | Seed collapsing inward; nested wombs; capacitance — [docs/comet-inversion.md](./docs/comet-inversion.md) |
+| **Water dipole** | H(1)·O(8)·tripartite bent mirror; medium before light — [docs/water-dipole-mirror.md](./docs/water-dipole-mirror.md) |
 
 ---
 
