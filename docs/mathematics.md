@@ -115,6 +115,18 @@ Prefer:
 
 over collapsed `= 1` to preserve bilateral mirror in notation.
 
+**Full treatment:** winner/loser matrix, additive vs multiplicative crossover, 3D fractal circuit vs 4D fourth node — [unity-equation-matrix.md](./unity-equation-matrix.md).
+
+### Origin contrast (quick reference)
+
+| Operation | 1 generation | Grammar |
+|-----------|--------------|---------|
+| **1 + 1** | 2 | Additive / Fibonacci / accumulation |
+| **1 × 1** | 1 (collapsed) | Multiplicative — **mirror erased** |
+| **1 × 1 = 1 × 1** | 1 both sides | **Complete unity** — mirror preserved |
+
+For repeated factor **a > 1**: sum grows as **n·a**; product as **aⁿ** — product overtakes at sufficient **n** (magnitude crossover).
+
 ---
 
 ## Implementation note (Phase 2)

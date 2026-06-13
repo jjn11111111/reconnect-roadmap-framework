@@ -84,6 +84,7 @@ True power is **neutrality** — not savior nor narcissist, not patriarchy nor m
 | **Comet inversion** | Seed collapsing inward; nested wombs; capacitance — [docs/comet-inversion.md](./docs/comet-inversion.md) |
 | **Water dipole** | H(1)·O(8)·tripartite bent mirror; medium before light — [docs/water-dipole-mirror.md](./docs/water-dipole-mirror.md) |
 | **Membrane / consumption** | Local death grammar — **not** harm license — [docs/membrane-consumption-death.md](./docs/membrane-consumption-death.md) |
+| **Unity equation** | `1×1=1×1` vs collapsed unity; winner/loser spell — [docs/unity-equation-matrix.md](./docs/unity-equation-matrix.md) |
 | **Membrane / consumption** | To be eaten = local death; plasma release from container — [docs/membrane-consumption-death.md](./docs/membrane-consumption-death.md) |
 
 ---
