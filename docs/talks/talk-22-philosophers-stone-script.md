@@ -90,27 +90,15 @@ Alone.
 
 So we **reverse the curse.**
 
-Say it with me if you want — or let it land inside:
+At the **close** tonight — we speak the **full seal** together.
 
-*(Rhythmic — almost rap — smile allowed.)*
+For now — hold the opening key:
 
-**Ah nay nay.**
+*(Rhythmic — smile allowed.)*
 
-**Nein.**
+**Ah nay, non, nein,**
 
-**No curse reverse.**
-
-**Impale the spell.**
-
-**Split the grift.**
-
-**Relax hacks.**
-
-**Flip the script.**
-
-**Untie the knot.**
-
-**Feel it to heal it.**
+**Reverse the curse.**
 
 *(Pause.)*
 
@@ -417,7 +405,7 @@ and **here** is where **you** forge the stone.
 
 *(Slide 9: 10 · 9 · ? — door barely open)*
 
-There is a **mandate of three-D soldom** —
+There is a **mandate of three-D soul-dom** —
 
 this **right now**
 
@@ -425,7 +413,13 @@ that encapsulates **all possible consciousness**
 
 in a known **ten-mode-nine** universe —
 
-*(Grin.)*
+*(Grin — optional beat.)*
+
+Not **sold**-om.
+
+**Soul-dom** — domain of the sovereign soul, not soul **for sale**.
+
+*(Continue.)*
 
 **That's for another talk.**
 
@@ -461,13 +455,61 @@ The prison loses power
 
 when you **stop powering the cell**.
 
-*(Beat.)*
+*(Beat — energy rises. Call-response welcome. Almost rap. Joy allowed.)*
 
-**Ah nay nay.**
+**Ah nay, non, nein,**
 
-**Flip the script.**
+**Reverse the curse**
 
-**Emerge.**
+**Inhale/exhale align**
+
+**Repel the spell,**
+
+**Rift the grift,**
+
+**Stuff Ben 'n' pocket,**
+
+**Max everyone's profit**
+
+**Relax hacks,**
+
+**Flip the script,**
+
+**Read/make your very own,**
+
+**Then dip**
+
+**Untie the knot,**
+
+**Lose the fear,**
+
+**Alpha and Omega,**
+
+**You be, Dear**
+
+**Creator Source**
+
+**Made in the image,**
+
+**In force, of course,**
+
+**Complete Love You,**
+
+**Infinite Love Them,**
+
+**Aquarian example,**
+
+**ALL, WHOLE, HUMANITY**
+
+**POUR US!**
+
+**Race to the Heart, the middle,**
+
+**roadmap A-SIN-SAY-TEA-I-OWN /// A-SENSE-I-OWN**
+
+*(Beat — stillness.)*
+
+**AMOR PAX LUX TENEBRIS ET VERITAS**
 
 *(Hold. Exit.)*
 

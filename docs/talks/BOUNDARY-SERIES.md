@@ -36,7 +36,7 @@ Core series (Talks 1–5) builds trust. Boundary talks spend that trust on harde
 | 11 | **Institutional Arrogance** | Peer review, credential condescension |
 | 12 | **Transport as Hypothesis** | Full Ψ(res) formula; calendar temporal lock |
 | 17 *(spine)* | **The Open Membrane** | [membrane-consumption-death.md](../membrane-consumption-death.md) · **ethics-first** · reciprocity not predation |
-| 23+ | **10-Mode-9 Universe · Soldom Mandate** | All possible consciousness · teased Talk 22 close |
+| 23+ | **10-Mode-9 Universe · Soul-Dom Mandate** | All possible consciousness · teased Talk 22 close |
 
 Request scripts in order of what you're ready to **perform**, not what angries the room most.
 

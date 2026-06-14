@@ -27,7 +27,7 @@ Truth-seekers often hit: *If I integrate fully, will I lose loved ones?*
 
 **Framework response (Jeremy litany — reverse the curse):**
 
-> Ah nay nay · nein · no curse reverse · impale the spell · split the grift · relax hacks · flip the script · untie the knot · feel it to heal it.
+> Ah nay, non, nein · reverse the curse · inhale/exhale align · repel the spell · rift the grift · stuff Ben 'n' pocket · max everyone's profit · relax hacks · flip the script · read/make your very own, then dip · untie the knot · lose the fear · Alpha and Omega · Creator Source · complete love you · infinite love them · Aquarian example · ALL WHOLE HUMANITY POUR US · race to the Heart the middle · roadmap A-SIN-SAY-TEA-I-OWN / A-SENSE-I-OWN · *Amor Pax Lux Tenebris et Veritas*
 
 Integration **≠** exile from love. It **refuses** love that **requires your erasure**. Other timeline locks **still exist** — frequency match in **this** now does not **delete** other facets.
 
@@ -81,7 +81,22 @@ Enemy need only knock us **off internal alignment**:
 
 ## Tease — 10-mode-9 universe
 
-3D **soldom** mandate — all possible consciousness in known **10-mode-9** universe — **Talk 23+**.
+3D **soul-dom** mandate — all possible consciousness in known **10-mode-9** universe — **Talk 23+**.
+
+---
+
+## Naming note — soul-dom (not soldom)
+
+**Jeremy correction:** *soldom* read wrong in the body — **capitalist pang**, dominion-as-commodity, soul as **property**. Unintended.
+
+| Read | Keep? |
+|------|-------|
+| **Sol** · sun · son | Acknowledged — solar/logos thread elsewhere |
+| **Sold** · owned · traded | **Rejected** for this grammar |
+| **Soul-dom** | **Chosen** — realm of **sovereign soul**, not marketplace of selves |
+
+Short diatribe: the matrix **loves** homophones that smuggle **title** into **birthright**. One typo and you're **buying** what you meant to **be**. We spell it **soul-dom** on purpose: **dom** as domain, hinge, **home** — the 3D laboratory where soul exercises liberty without being **listed**. Sun/son echoes stay in the **correspondence table**; this talk line stays **soul**.
+
 
 ---
 

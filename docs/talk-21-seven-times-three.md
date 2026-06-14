@@ -21,7 +21,7 @@
 ```
 Talk 21  ·  HINGE — assimilation vs integration + 7×3
 Talk 22  ·  Imagination manifest · philosopher's stone · frequency lock
-Talk 23+ ·  10-mode-9 universe · soldom mandate (teased)
+Talk 23+ ·  10-mode-9 universe · **soul-dom** mandate (teased)
 ```
 
 **One line:** *21 is seven times three — truth that speaks inward, door to wonder without melting the unseen face.*

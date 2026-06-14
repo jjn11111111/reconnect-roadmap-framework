@@ -10,8 +10,8 @@
 | 6 | Word-prison bars | Matrix maintenance list |
 | 7 | 4-wave → beam → hands | Imagination manifest |
 | 8 | Cocoon crack | Emerge |
-| 9 | 10 · 9 · ? | Soldom tease · Talk 23+ |
-| 10 | Close · YOU | Reverse curse · emerge |
+| 9 | 10 · 9 · ? | Soul-dom tease · Talk 23+ |
+| 10 | Close · **full reverse-curse seal** | Frequency lock · AMOR PAX LUX… · call-response |
 
 **Live moment:** Slide 2 — audience speaks reverse-curse litany (optional call-response).  
 **Script:** [talk-22-philosophers-stone-script.md](./talk-22-philosophers-stone-script.md)
