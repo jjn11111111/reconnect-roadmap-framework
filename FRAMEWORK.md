@@ -85,6 +85,10 @@ True power is **neutrality** — not savior nor narcissist, not patriarchy nor m
 | **Water dipole** | H(1)·O(8)·tripartite bent mirror; medium before light — [docs/water-dipole-mirror.md](./docs/water-dipole-mirror.md) |
 | **Membrane / consumption** | Local death grammar — **not** harm license — [docs/membrane-consumption-death.md](./docs/membrane-consumption-death.md) |
 | **Unity equation** | `1×1=1×1` vs collapsed unity; winner/loser spell — [docs/unity-equation-matrix.md](./docs/unity-equation-matrix.md) |
+| **Necessary mirror** | Polarity required; caste brainsmash is the poison — [docs/necessary-mirror-vs-caste.md](./docs/necessary-mirror-vs-caste.md) |
+| **Mirror pair** | Love enemy · twin anti-magnetism · coherence catalyst — [docs/mirror-pair-coherence.md](./docs/mirror-pair-coherence.md) |
+| **Assimilation vs integration** | Erasure vs phase-lock — infinitely separate — [docs/assimilation-vs-integration.md](./docs/assimilation-vs-integration.md) |
+| **Philosopher's stone** | 4-wave coherence · frequency lock · stargate — [docs/philosophers-stone-four-wave.md](./docs/philosophers-stone-four-wave.md) |
 | **Membrane / consumption** | To be eaten = local death; plasma release from container — [docs/membrane-consumption-death.md](./docs/membrane-consumption-death.md) |
 
 ---

@@ -115,7 +115,9 @@ Prefer:
 
 over collapsed `= 1` to preserve bilateral mirror in notation.
 
-**Full treatment:** winner/loser matrix, additive vs multiplicative crossover, 3D fractal circuit vs 4D fourth node — [unity-equation-matrix.md](./unity-equation-matrix.md).
+**Full treatment:** winner/loser matrix, additive vs multiplicative crossover, 3D fractal circuit vs 4D fourth node — [unity-equation-matrix.md](./unity-equation-matrix.md).  
+**Necessary mirror vs caste:** polarity required for freewill; hierarchy is the poison — [necessary-mirror-vs-caste.md](./necessary-mirror-vs-caste.md).  
+**Assimilation vs integration:** erasure vs phase-lock — [assimilation-vs-integration.md](./assimilation-vs-integration.md).
 
 ### Origin contrast (quick reference)
 
